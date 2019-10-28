@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: white;
+}
+section {
+    background: #FEF0DE ;
+}
+p {
+    font-size: 13px;
+    line-height: 10px;
+    background:  url(https://media.giphy.com/media/1ykmFZ65ga129X1Tfe/giphy.gif) no-repeat;
+    background-size: 700px, 700px;
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0) ;
+    font-weight: 700;
+    margin: 0;
+    mix-blend-mode: darken;
+}
+
+
